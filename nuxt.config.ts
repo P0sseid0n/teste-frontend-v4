@@ -9,11 +9,21 @@ export default defineNuxtConfig({
 	},
 
 	ssr: false,
-	modules: ['@nuxt/eslint', '@nuxt/test-utils', '@nuxtjs/leaflet'],
+	modules: [
+		'@nuxt/eslint',
+		'@nuxt/test-utils',
+		'@nuxtjs/leaflet',
+		'@nuxt/ui',
+		'@pinia/nuxt',
+	],
 
 	css: ['~/assets/css/main.css'],
 
 	vite: {
 		plugins: [tailwindcss()],
+	},
+
+	ui: {
+		colorMode: false,
 	},
 })
