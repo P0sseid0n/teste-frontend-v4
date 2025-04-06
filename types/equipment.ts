@@ -7,11 +7,15 @@ export interface Equipment {
 	}
 	state: {
 		date: string
-		equipmentStateId: string | number
+		equipmentStateId: string
 		equipmentStateName: string
 		equipmentStateColor: string
 	}
 	id: string
 	equipmentModelId: string
 	name: string
+	hourlyEarnings: {
+		equipmentStateId: string
+		value: number
+	}[]
 }
