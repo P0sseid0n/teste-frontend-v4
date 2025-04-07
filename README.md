@@ -16,6 +16,8 @@ Neste projeto, desenvolvi uma aplicação utilizando Nuxt 3 (usando em beta a ve
 
 ## Estrutura do projeto
 
+![Estrutura do projeto](app/assets/img/estrutura.png)
+
 - **app/**: Contém os componentes principais da aplicação front end.
 
   - **components/**: Contém os componentes reutilizáveis da aplicação.
