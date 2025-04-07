@@ -1,6 +1,6 @@
 # 🏆 Teste Frontend
 
-![Aiko](img/aiko.png)
+![Aiko](app/assets/img/aiko.png)
 
 Essa é o meu resultado para o teste de frontend da Aiko.
 
