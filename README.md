@@ -4,9 +4,13 @@
 
 Essa é o meu resultado para o teste de frontend da Aiko.
 
-Video de apresentação do projeto:
+#### Video de apresentação do projeto
 
-[https://drive.google.com/file/d/1zKJRJxgBNw0-iZHCS1lSBw56LDEASIUS/view?usp=sharing](https://drive.google.com/file/d/1zKJRJxgBNw0-iZHCS1lSBw56LDEASIUS/view?usp=sharing)
+https://drive.google.com/file/d/1zKJRJxgBNw0-iZHCS1lSBw56LDEASIUS/view?usp=sharing
+
+#### Link do projeto no Vercel
+
+https://teste-frontend-v4-dcm6fsr58-p0sseid0ns-projects.vercel.app/
 
 Neste projeto, desenvolvi uma aplicação utilizando Nuxt 3 (usando em beta a versão 4 para melhor organização do projeto) junto com Typescript. Na estilização optei por usar o Nuxt/UI, que é uma biblioteca de componentes UI para Vue.js, por ser leve, de fácil integração e com uma documentação excelente. Na escolha do mapa preferi usar o Leaflet, por ser um mapa código aberto e leve, com uma API simples de usar, fazendo a integração usando a biblioteca **@nuxtjs/leaflet**.
 
